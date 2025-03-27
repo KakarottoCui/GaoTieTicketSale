@@ -1,7 +1,7 @@
 # GaoTieTicketSale
 基于springboot+mybatis+themeleaf的高铁售票系统 
 
-演示视频连接：https://live.csdn.net/v/204128
+演示视频连接：https://www.bilibili.com/video/BV1TT4y1k7u8/
 
 用到的技术
 
